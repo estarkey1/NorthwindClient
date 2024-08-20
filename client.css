@@ -1,0 +1,8 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+  }
+
+.shadow {
+    box-shadow: 100px 100px 100px #343a40;
+}
+
